@@ -66,7 +66,7 @@
                             "nav-scroll py-0": !l.isTop || c.showMenu
                         }]
                     }, [(0, e.Wm)("div", r, [(0, e.Wm)("div", null, [(0, e.Wm)(s, {
-                        to: "/",
+                        to: "/cuocthianh/",
                         class: "block px-4 py-2",
                         onClick: n[1] || (n[1] = (0, e.iM)((function (t) {
                             return l.scrollToSection("main-section")
