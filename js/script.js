@@ -706,7 +706,7 @@
                         name: "Home",
                         component: Qt
                     }, {
-                        path: "/cuocthianh/faq",
+                        path: "/faq",
                         name: "FAQ",
                         component: cn
                     }],
