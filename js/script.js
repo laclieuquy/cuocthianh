@@ -104,7 +104,7 @@
                             _: 2
                         }, 1032, ["to", "class", "onClick"])
                     })), 128)), (0, e.Wm)(s, {
-                        to: "/faq",
+                        to: "cuocthianh/faq",
                         class: ["nav-link text-center", {
                             "text-yellow-200 hover:text-yellow-400": l.isTop && !c.showMenu,
                             "text-black hover:text-yellow-800": !l.isTop || c.showMenu
