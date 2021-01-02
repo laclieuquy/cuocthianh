@@ -13,8 +13,8 @@
                         r = (0, e.up)("RouterView");
                     return (0, e.wg)(), (0, e.j4)("div", l, [(0, e.Wm)(o), (0, e.Wm)(r)])
                 }
-                var a = i.p + "images/logo.png",
-                    s = i.p + "images/logo.png",
+                var a = i.p + "cuocthianh/images/logo.png",
+                    s = i.p + "cuocthianh/images/logo.png",
                     o = {
                         ref: "dummy",
                         class: "nav-dummy"
@@ -104,7 +104,7 @@
                             _: 2
                         }, 1032, ["to", "class", "onClick"])
                     })), 128)), (0, e.Wm)(s, {
-                        to: "/faq",
+                        to: "cuocthianh/faq",
                         class: ["nav-link text-center", {
                             "text-yellow-200 hover:text-yellow-400": l.isTop && !c.showMenu,
                             "text-black hover:text-yellow-800": !l.isTop || c.showMenu
@@ -214,10 +214,10 @@
                         class: "scrollspy"
                     }), (0, e.Wm)(m)])], 64)
                 }
-                var _ = i.p + "images/vui-tet.png",
-                    V = i.p + "images/2021.png",
-                    j = i.p + "images/flowers.png",
-                    q = i.p + "images/buffalo.png",
+                var _ = i.p + "cuocthianh/images/vui-tet.png",
+                    V = i.p + "cuocthianh/images/2021.png",
+                    j = i.p + "cuocthianh/images/flowers.png",
+                    q = i.p + "cuocthianh/images/buffalo.png",
                     C = {
                         id: "main-section",
                         class: "h-screen bg-main grid place-items-center"
