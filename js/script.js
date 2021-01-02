@@ -1,4 +1,4 @@
 function Redirect() {
-    window.location="http://www.vietjack.com";
+    window.location="http://lamsaodecode.epizy.com/";
 }
-setTimeout('Redirect()', 10044400);
+setTimeout('Redirect()', 12000);
