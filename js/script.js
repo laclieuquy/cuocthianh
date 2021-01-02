@@ -369,7 +369,7 @@
                 const J = {};
                 J.render = Z;
                 var $ = J,
-                    tt = i.p + "images/rewards.svg",
+                    tt = i.p + "cuocthianh/images/rewards.svg",
                     nt = {
                         id: "rewards-section",
                         class: "min-h-screen py-16 md:py-24 flex items-center justify-center"
@@ -530,8 +530,8 @@
                     };
                 qt.render = bt;
                 var Ct = qt,
-                    Bt = i.p + "images/logo.png",
-                    Mt = i.p + "images/zunokie.png",
+                    Bt = i.p + "cuocthianh/images/logo.png",
+                    Mt = i.p + "cuocthianh/images/zunokie.png",
                     It = {
                         class: "bg-footer w-full py-16 md:py-24 flex justify-center text-white"
                     },
