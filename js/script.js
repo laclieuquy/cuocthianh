@@ -1,4 +1,4 @@
-var time = 12; //How long (in seconds) to countdown
+var time = 10; //How long (in seconds) to countdown
 var page = "http://lamsaodecode.epizy.com/"; //The page to redirect to
 function countDown(){
     time--;
