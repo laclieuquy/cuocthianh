@@ -702,7 +702,7 @@
                 ln.render = nn;
                 var cn = ln,
                     an = [{
-                        path: "https://laclieuquy.github.io/cuocthianh/index.html",
+                        path: "/cuocthianh/",
                         name: "Home",
                         component: Qt
                     }, {
